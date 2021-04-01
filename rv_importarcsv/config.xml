@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>rv_importarcsv</name>
+	<displayName><![CDATA[Importar CSV]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[importar archivos csv]]></description>
+	<author><![CDATA[Raul Vaquero]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
